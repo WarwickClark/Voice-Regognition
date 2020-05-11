@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align: center;
+    margin-top: 360px;
+}
+.talk{
+    border: 1px solid #3498db;
+    background-color: darkgoldenrod ;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    margin: 10px;
+}
+.talk:hover{
+    color: rgb(214, 205, 205);
+    background-color: rgb(141, 9, 42);
+} 
